@@ -14,8 +14,6 @@ export default function Home() {
           <Link href="/orders"
           className=" bg-blue-600 rounded-md p-3 text-white font-bold hover:bg-white hover:border-2 hover:transition-all  hover:border-blue-600 hover:text-blue-600"
           >
-            {/* <a className="text-blue-500">Orders</a> 
-            */}
               Orders
           </Link>
         </li>
@@ -23,7 +21,6 @@ export default function Home() {
           <Link href="/inventory"
           className=" bg-blue-600 rounded-md p-3 text-white font-bold hover:bg-white hover:border-2 hover:transition-all  hover:border-blue-600 hover:text-blue-600" 
           >
-            {/* <a className="text-blue-500">Inventory</a> */}
             Inventory
           </Link>
         </li>
