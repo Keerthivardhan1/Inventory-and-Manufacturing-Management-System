@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## MyIMS - Inventory and Manufacturing Management System
 
-## Getting Started
-
-First, run the development server:
+MyIMS is a simplified inventory and manufacturing management system built using Next.js, React, and Tailwind CSS. It focuses on managing orders and inventory with features like order listing, filtering, order details, inventory management, and more.
 
 ```bash
 npm run dev
@@ -16,21 +14,27 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Usage
+Navigate through the application using the navigation links (orders , Inventory buttons ).
+View and manage orders and inventory through the provided interfaces.
+Use filters and sorting options to find specific orders or items.
+Add new items to the inventory and edit/delete existing items.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
+Next.js
+React
+Tailwind CSS
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgments
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+I have devoted my best efforts to completing this project within the allotted time frame. Here are my recent works:
 
-## Deploy on Vercel
+1. https://codelivehub.netlify.app/
+2. https://mask-animation-framer-motion.vercel.app/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I am confident in my ability to further improve and refine my skills. Currently, I am focusing on learning Framer Motion for advanced animation effects and sharpening my skills in Shadcn UI for enhanced user interface design.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Deployed on Vercel
