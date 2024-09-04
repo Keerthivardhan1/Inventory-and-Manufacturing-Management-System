@@ -27,6 +27,8 @@ Next.js
 React
 Tailwind CSS
 
+# Deployed site : https://inventory-and-manufacturing-management-system.vercel.app/
+
 ## Acknowledgments
 
 I have devoted my best efforts to completing this project within the allotted time frame. Here are my recent works:
